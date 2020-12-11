@@ -30,5 +30,5 @@ They can be installed with pip command `pip install wolframalpha clipboard webbr
 
 You have to get your own wolframalpha appid from `http://products.wolframalpha.com/api/` for this plugin to work.  
 It's free and it only takes 1 minute to register.  
-Put your appid in the `app_id` variable in main.py.  
+Put your appid in the `APP_ID` variable in `appid.py` file.  
 The plugin detects if no appid is registered, and takes you to a webpage where you can get one.  
