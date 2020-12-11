@@ -1,0 +1,12 @@
+{
+    "ID":"E2D2C23B084D662DB66FE0C79D62CAH6",
+    "ActionKeyword":"wolfram",
+    "Name":"Wolfram Alpha Query",
+    "Description":"Make Wolfram Alpha queries and get the result in Wox",
+    "Author":"Edris Tavoosi",
+    "Version":"2.0.0",
+    "Language":"python",
+    "Website":"https://github.com/EdrisT/Wox.Plugin.WolframAlpha",
+    "ExecuteFileName":"main.py",
+    "IcoPath": "wolfram.png"
+}
